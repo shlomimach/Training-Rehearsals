@@ -113,7 +113,6 @@
     }
 
 
-    #region Two Pointers
     public static void FindPairWithSum()
     {
         int[] numbers = { 1, 3, 7, 4, 2, 11, 6 }; // מערך ממוין
@@ -145,5 +144,4 @@
         return;
 
     }
-    #endregion
 }
